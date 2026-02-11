@@ -1,4 +1,5 @@
-![logo.png](./img/logo.png)
+<img src="./img/logo.png" alt="drawing" width="700">
+
 # CortexLab
 
 CortexLab is a desktop-first, open-source cognitive training engine built in Go and GIO.
