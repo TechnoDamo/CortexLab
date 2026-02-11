@@ -1,4 +1,4 @@
-<img src="./img/logo.png" alt="drawing" width="500"/>
+<img src="./img/logo.png" alt="drawing" width="1000"/>
 
 # CortexLab
 
